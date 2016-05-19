@@ -1,0 +1,1 @@
+PromoZombie.render(userConfig || {});
